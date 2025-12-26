@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+qdrant_data/
+*.egg-info/
